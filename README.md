@@ -23,7 +23,7 @@ Data trace processing: A workstation with Matlab (version: R2022a)
 - This code is tested on Ubuntu 18.04.
 ## HydraNet Spatial Reuse Protocol
 Below is the protocol of HydraNet, illustrating how it achieve spatial reuse in LPWANs.
-![HydraNet Spatial Reuse Protocol](#1 images/Spatial reuse protocol.jpg)
+![HydraNet Spatial Reuse Protocol](Spatial_reuse_protocol.jpg)
 ## To Run the Artifact 
 
 ## To Run the HydraNet on Your Testbed
