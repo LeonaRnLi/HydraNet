@@ -30,9 +30,9 @@ Below is the protocol of HydraNet, illustrating how it achieve spatial reuse in 
 </div>
 
 ## Folders
-- **Uplink** - provide the .grc and .m files for uplink opensource gateway process LoRa packets.
+- **Uplink** - provide the .grc (for GNU Radio to control the USRP) and .m (for matlab to demodulate) files for uplink opensource gateway process LoRa packets.
 
-- **Downlink** - provide the .grc and .m files for downlink opensource gateway process LoRa packets.
+- **Downlink** - provide the .grc and .m (for matlab to generate power beam and combined packets .dat data) files for downlink opensource gateway process LoRa packets.
 ## To Run the Artifact 
 
 
