@@ -9,10 +9,11 @@ Low Power Wide-Area Networks (LPWANs) suffer from sever interference due to thei
 
 HydraNet is a new paradigm to facilitate simultaneous LPWAN transmissions on the same frequency,fundamentally evolving the current philosophy of interference management—from mitigating interference to tolerating its presence.
 
-### Reference:
+-**Reference:**
+
 Ruonan Li, Ziyue Zhang, Xianjin Xia, et al. From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs, ACM MobiCom 2025. 
 
-The PDF file in the main folder.
+The PDF file is in the main folder.
 ## Hardware Requirements and Dependencies
 - **Hardware**
 LoRa nodes: SX1276 + Arduino Uno (version: 1.8.X)
@@ -23,8 +24,17 @@ Data trace processing: A workstation with Matlab (version: R2022a)
 - This code is tested on Ubuntu 18.04.
 ## HydraNet Spatial Reuse Protocol
 Below is the protocol of HydraNet, illustrating how it achieve spatial reuse in LPWANs.
-![HydraNet Spatial Reuse Protocol](Spatial_reuse_protocol.jpg)
+
+<div align="center">
+    <img src="Spatial_reuse_protocol.jpg" alt="HydraNet Spatial Reuse Protocol" width="600">
+</div>
+
+## Folders
+- **Uplink** - provide the .grc and .m files for uplink opensource gateway process LoRa packets.
+
+- **Downlink** - provide the .grc and .m files for downlink opensource gateway process LoRa packets.
 ## To Run the Artifact 
+
 
 ## To Run the HydraNet on Your Testbed
 
