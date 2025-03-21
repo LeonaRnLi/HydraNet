@@ -1,0 +1,89 @@
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -55
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: ⸮CTi⸮HZX⸮0p⸮N$⸮⸮̀a⸮
+RSSI: -54
+SERVER got packet from client: 1234567:9#
+RSSI: -54
+SERVER got packet from client: ⸮CTi⸮H⸮⸮⸮0p⸮hР@⸮#G⸮n⸮⸮⸮
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -53
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: 1234567:9#
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -54
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -54
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: ⸮CTirH
+19:07:22.736 -> H⸮0p⸮kР@⸮Q#%⸮tK⸮⸮⸮I⸮⸮⸮`⸮t⸮&˾⸮]b.ٚʡLQ⸮⸮⸮⸮Jqؒ⸮
+RSSI: -54
+SERVER got packet from client: 1234567:⸮#
+RSSI: -53
+SERVER got packet from client: HBCDEFGHJKL
+RSSI: -54
+SERVER got packet from client: 1234567:9/
+RSSI: -54
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -54
+SERVER got packet from client: 1234567:9#
+RSSI: -53
+SERVER got packet from client: HBCDEFGHJKL
+RSSI: -54
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -53
+SERVER got packet from client: 123456789#
+RSSI: -53
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -54
+SERVER got packet from client: 12345678⸮#
+RSSI: -54
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: 1234567:9#
+RSSI: -54
+SERVER got packet from client: ⸮⸮,fGH⸮+0⸮⸮Rl⸮⸮⸮⸮>T^⸮a>X^A⸮⸮⸮SPU⸮⸮]F⸮⸮%
+19:07:48.218 -> 3⸮NuOx⸮T⸮7]⸮}⸮⸮⸮⸮⸮⸮Fk8GSO7⸮+⸮̽⸮⸮⸮OHD⸮H⸮HU⸮⸮⸮$N⸮⸮⸮Q⸮⸮#⸮⸮xâ⸮⸮8R⸮
+19:07:48.265 -> c0⸮⸮,.⸮⸮(⸮V⸮⸮⸮\⸮@⸮⸮⸮⸮⸮?⸮Ϳ⸮⸮V⸮[⸮⸮m⸮⸮⸮
+RSSI: -54
+SERVER got packet from client: 123456789#
+RSSI: -54
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -50
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -50
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -50
+SERVER got packet from client: ABCDifGHJH⸮0⸮⸮hР@⸮#G⸮8q⸮ĉ%K⸮.\⸮p⸮⸮⸮1d⸮⸮$I⸮&M⸮7n⸮⸮z⸮ΐa
+19:08:00.093 -> jP⸮[⸮}⸮c⸮i{⸮⸮å⸮@⸮⸮۷⸮2o⸮ȏ⸮jތ⸮⸮⸮K⸮\⸮⸮⸮⸮&e⸮⸮!B
+*%lٱ㧗|l⸮⸮ʍ⸮⸮⸮⸮BA⸮-Z=⸮Ҥؑ"u⸮)R⸮J⸮*T⸮S⸮N⸮;w⸮ݻv⸮ٳgϞ={⸮⸮߿~⸮⸮⸮⸮ӦL⸮3f͚5jԨQ⸮F⸮0lɃ⸮⸮u⸮ӪU+_⸮_⸮|⸮⸮⸮⸮⸮%sshG⸮⸮⸮⸮
+RSSI: -50
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -52
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -97

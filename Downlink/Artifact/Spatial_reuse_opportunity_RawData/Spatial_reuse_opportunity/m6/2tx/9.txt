@@ -1,0 +1,108 @@
+19:31:55.764 -> SERVER got packet from client: ABCDEFGHJKL
+19:31:56.741 -> RSSI: -43
+19:31:57.432 -> SERVER got packet from client: ABCDEFGHJKL
+19:31:58.447 -> RSSI: -43
+19:31:59.148 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:00.129 -> RSSI: -43
+19:32:00.824 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:01.846 -> RSSI: -43
+19:32:02.540 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:03.516 -> RSSI: -43
+19:32:04.215 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:05.223 -> RSSI: -43
+19:32:05.923 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:06.906 -> RSSI: -43
+19:32:07.602 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:08.628 -> RSSI: -43
+19:32:09.321 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:10.330 -> RSSI: -43
+19:32:11.028 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:12.011 -> RSSI: -43
+19:32:12.713 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:13.736 -> RSSI: -43
+19:32:14.386 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:15.411 -> RSSI: -43
+19:32:16.112 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:17.089 -> RSSI: -43
+19:32:17.784 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:18.812 -> RSSI: -43
+19:32:19.496 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:20.516 -> RSSI: -43
+19:32:21.168 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:22.193 -> RSSI: -43
+19:32:22.892 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:23.896 -> RSSI: -43
+19:32:24.594 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:25.569 -> RSSI: -43
+19:32:26.268 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:27.282 -> RSSI: -42
+19:32:27.980 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:28.957 -> RSSI: -42
+19:32:29.657 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:30.683 -> RSSI: -43
+19:32:31.381 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:32.362 -> RSSI: -42
+19:32:33.060 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:34.088 -> RSSI: -43
+19:32:34.742 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:35.768 -> RSSI: -43
+19:32:36.466 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:37.443 -> RSSI: -43
+19:32:38.139 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:39.166 -> RSSI: -43
+19:32:39.863 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:40.841 -> RSSI: -43
+19:32:41.538 -> SERVER got packet from client: ABCDiwKHJH⸮0p⸮|⸮)⸮
+19:32:42.564 -> RSSI: -43
+19:32:43.216 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:44.239 -> RSSI: -43
+19:32:44.941 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:45.919 -> RSSI: -42
+19:32:46.619 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:47.611 -> RSSI: -43
+19:32:48.307 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:49.343 -> RSSI: -42
+19:32:50.046 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:51.025 -> RSSI: -43
+19:32:51.698 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:52.723 -> RSSI: -42
+19:32:53.425 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:54.398 -> RSSI: -43
+19:32:55.092 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:56.105 -> RSSI: -43
+19:32:56.816 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:57.831 -> RSSI: -43
+19:32:58.490 -> SERVER got packet from client: ABCDEFGHJKL
+19:32:59.513 -> RSSI: -43
+19:33:00.213 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:01.186 -> RSSI: -43
+19:33:01.881 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:02.900 -> RSSI: -43
+19:33:03.599 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:04.574 -> RSSI: -43
+19:33:05.300 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:06.275 -> RSSI: -43
+19:33:07.003 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:07.980 -> RSSI: -43
+19:33:08.680 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:09.698 -> RSSI: -43
+19:33:10.398 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:11.377 -> RSSI: -43
+19:33:12.081 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:13.063 -> RSSI: -43
+19:33:13.764 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:14.775 -> RSSI: -42
+19:33:15.477 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:16.456 -> RSSI: -43
+19:33:17.143 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:18.158 -> RSSI: -43
+19:33:18.849 -> SERVER got packet from client: ABCDiFGHJHL0⸮⸮hР@⸮P3V⸮
+q⸮⸮.⸮WNSFq⸮r⸮P⸮22dɒ$I⸮&M
+19:33:18.943 -> 6⸮⸮Gj⸮5 ⸮⸮ۊ⸮]H⸮⸮oW⸮Ѳe˖,X⸮aÇ⸮urb⸮~#dWy
+19:33:19.915 -> RSSI: -43
+19:33:20.569 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:21.545 -> RSSI: -43
+19:33:22.243 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:23.254 -> RSSI: -43
+19:33:23.955 -> SERVER got packet from client: ABCDEFGHJKL
+19:33:24.936 -> RSSI: -93

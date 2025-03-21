@@ -1,0 +1,113 @@
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -57
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -59
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -57
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDeFGHJHL0⸮⸮:⸮n⸮⸮⸮⸮⸮w.⸮C⸮.X⸮⸮"bˮ.؈⸮⸮⸮⸮⸮6⸮
+⸮BI⸮⸮M⸮7nܹr⸮Ȑ A⸮
+19:15:27.395 -> +V⸮[⸮mڵk֬Y⸮e˖,X⸮aÇOlQ۝⸮S⸮C⸮⸮⸮⸮⸮⸮<?⸮t⸮⸮.G⸮@⸮=⸮.}⸮⸮R#⸮⸮g⸮⸮ެ9s⸮̘1bŋ-Z⸮iҤH⸮"E⸮)R⸮J⸮*T⸮S⸮N⸮;w⸮ݻv쉜⸮ξ麖f_⸮⸮l⸮l⸮⸮6l⸮~R⸮⸮5iԸP
+WJ⸮03Ղ4⸮-⸮]⸮ӪU⸮W⸮_⸮|⸮⸮⸮ʔ(P⸮B⸮	'O⸮?⸮
+RSSI: -59
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -59
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDi⸮GHJH⸮0p⸮Z⸮⸮⸮⸮l⸮⸮u⸮⸮*׌⸮⸮⸮⸮⸮pc⸮⸮^⸮h⸮W62dɒ$I⸮&M⸮7nܹr⸮Ȑ A⸮9⸮mEϝܖ⸮o⸮M6b⸮
+y|`⸮#{j⸮-@⸮⸮۷o޽z⸮⸮׮]⸮t⸮ѢD⸮!C⸮	s2l⸮⸮⸮⸮;,{⸮⸮⸮⸮"⸮⸮⸮p⸮⸮⸮ˆ⸮⸮⸮}⸮"E⸮)R⸮J⸮*T⸮S⸮N⸮;⸮⸮⸮#we⸮⸮B[⸮N⸮⸮ZC&⸮[n⸮⸮R,⸮2⸮A!,0V
+)0`⸮⸮:u⸮ժU⸮W⸮_⸮|⸮⸮⸮ʔ⸮⸮!C⸮⸮F⸮⸮⸮
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -59
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -59
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -59
+SERVER got packet from client: ABCDeFGHJHL0⸮⸮$j⸮⸮
+RSSI: -59
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -59
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -60
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDeFGHJHL0⸮⸮dj⸮cH⸮Ā<M#⸮⸮yK⸮I⸮⸮T⸮p⸮⸮⸮2dɒBI⸮&M⸮7nܹr⸮Ȑ A⸮
+19:16:06.366 -> +V⸮[⸮mڵk֬Y⸮e˖,X⸮aÇ>}⸮⸮⸮۷o޽z⸮⸮׮]⸮t⸮ѢD⸮!C⸮
+6lرcǏ<y⸮⸮Ɯ9s⸮̘`⸮%-8⸮⸮⸮.⸮ ⸮⸮⸮r⸮⸮⸮1⸮B⸮n⸮⸮⸮⸮e⸮AG⸮⸮X⸮⸮⸮V⸮Qi⸮9⸮C⸮⸮"⸮/⸮]9⸮⸮⸮$⸮猝⸮.⸮⸮⸮J⸮⸮˸⸮_q⸮'⸮
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -59
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -59
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -61
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -63
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -61
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -61
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -61
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -61
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -61
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -62
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -73
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -95

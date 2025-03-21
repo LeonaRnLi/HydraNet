@@ -1,0 +1,118 @@
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDeFGHJHL0⸮⸮⸮⸮⸮
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDiFGHJHL0⸮⸮8&h⸮⸮⸮⸮G⸮*⸮⸮⸮%V⸮⸮⸮F⸮м⸮⸮3	⸮K⸮⸮C⸮7^⸮⸮⸮⸮Ȑ A⸮
+⸮
+f
+⸮x⸮⸮⸮ǽM⸮e˖,X⸮a⸮⸮\9^⸮DA⸮⸮^⸮Je⸮׮]⸮t⸮⸮b⸮⸮@*⸮h2_k⸮cǏ<y⸮GJ⸮<u⸮⸮qg⸮⸮V)Z⸮iҤH⸮"E⸮⸮⸮Z⸮ʤ
+ҩ⸮-N⸮kw⸮ݻv⸮⸮⸮c⸮⸮93⸮⸮W/~⸮d⸮ӦL⸮3n⸮i6⸮a⸮T⸮⸮!bu⸮:u⸮ժt⸮⸮⸮8d⸮n⸮KKf⸮B⸮	'O⸮?⸮⸮
+RSSI: -43
+SERVER got packet from client: ABCDi⸮GHJH⸮0p⸮hР@⸮#G⸮8q⸮ĉR⸮⸮.\⸮p⸮⸮	'KT⸮⸮w[⸮e⸮⸮p⸮)|⸮K⸮ A⸮T5š[⸮mڵk֬Y⸮e˖,X⸮aÇ~}⸮⸮ѿG⸮⸮*⸮⸮!LZ⸮ч⸮T⸮
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDi~GHJHL0⸮⸮b(⸮@⸮:⸮⸮u⸮ĉ%K⸮.\⸮ F⸮⸮2d⸮⸮w	⸮6⸮gkչr⸮Ȑ<8⸮"⸮⸮[⸮mZ⸮⸮⸮⸮⸮u͖yȰaÏ'Nh⸮⸮{⸮o޽z⸮⸮nu⸮4⸮A⸮D⸮⸮⸮-(8L⸮⸮"2⸮<y⸮⸮N⸮a⸮⸮⸮Tŋ-Z⸮+⸮$B⸮⸮⸮)⸮%ʗ(⸮A⸮⸮;w⸮⸮;vl⸮⸮%ϋ{K⸮⸮߿~⸮⸮⸮⸮⸮E⸮⸮f͚5j԰⸮V⸮Hc:O⸮:u⸮⸮dL⸮⸮⸮Z |⸮⸮⸮ʔPã[⸮?⸮
+RSSI: -43
+SERVER got packet from client: ABCDi⸮GHJHL0p⸮hР@⸮hkR⸮8⸮⸮a⸮
+U⸮⸮{<⸮f⸮⸮WOd˒b[⸮&M⸮7nܹr⸮Ȑ A⸮
+cV-J⸮/Ҷ⸮⸮⸮⸮!⸮⸮⸮R⸮⸮A⸮⸮⸮⸮⸮⸮۷o޽z⸮⸮׮]⸮t⸮ѢD⸮#I⸮
+6m⸮%b⸮i⸮D⸮⸮⸮⸮
+⸮⸮ͻ⸮1j⸮iҤH⸮"E⸮)R⸮J⸮*T⸮S⸮N⸮;e⸮ݏ5⸮⸮⸮g⸮J⸮i⸮yf⸮<|밦L⸮3f͚5jԨQ⸮F⸮0`⸮⸮:u⸮⸮⸮U⸮S⸮⸮⸮4⸮⸮⸮ڔ;&⸮	⸮
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDi⸮GHJH⸮0p⸮Р@⸮#G⸮8q⸮ĉ%K⸮.\⸮p⸮⸮⸮2EI⸮G⸮⸮FI⸮.⸮⸮⸮⸮Ip
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDeFGHJHL0⸮⸮ddР@⸮⸮u⸮iV⸮⸮(⸮⸮̟_⸮q⸮⸮⸮G2dɒ$IA:'I⸮OZ⸮Ȁ=s⸮⸮k⸮5⸮[⸮mڵkܬ⸮U⸮#&⸮⸮`⸮⸮7⸮⸮⸮⸮⸮⸮\⸮{N⸮׮]l⸮⸮⸮⸮T⸮⸮)C(%⸮Q⸮z⸮⸮⸮9sn⸮'⸮⸮E)⸮⸮)Ҥဲ⸮⸮
+B⸮J⸮*T)W/ژu⸮́u⸮⸮⸮W,w⸮⸮$Ӽ⸮⸮⸮}⸮Ӧ⸮f⸮9
+M]⸮b⸮F⸮g⸮N7⸮ժU⸮W+gx⸮!u⸮?Q⸮F⸮
+⸮]⸮⸮⸮⸮
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDi⸮GHJHL0⸮⸮⸮⸮?Ȑ⸮#G⸮⸮qႉ%K⸮h\⸮|⸮⸮A2dɒ$I⸮&M⸮7nܹr⸮Ȑ A⸮
++V⸮[⸮-ؓ⸮⸮⸮⸮⸮⸮⸮jܰ⸮˦oO]⸮⸮⸮tߵ@R⸮i⸮⸮*⸮a⸮⸮⸮m⸮⸮$4_⸮R⸮/⸮q⸮!Ư⸮Q⸮L⸮dŸ5J0h⸮ J⸮4Ԫ⸮!C!⸮|L⸮Ŧ{?w(ł⸮lېw⸮>?K1⸮⸮⸮>⸮⸮⸮⸮⸮⸮͚;\⸮,⸮⸮$⸮O9 VQ⸮2<w⸮ժU⸮W⸮Z⸮|⸮⸮⸮ʔ(P⸮K⸮2'O⸮⸮⸮
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDi~GHJH⸮0p⸮8⸮F⸮P⸮⸮⸮b⸮U"Ζ>ǹ⸮⸮B@⸮⸮
+J@3⸮⸮52cO2d⸮⸮i⸮⸮ɚ7~⸮3z⸮ˀa⸮
+⸮:⸮⸮y⸮m⸮0s֬˲⸮⸮⸮*Y⸮aÄi>}⸮⸮⸮۷o޽z⸮⸮׮]:t⸮ݶu⸮⸮
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDi⸮GHJHL0⸮⸮XB⸮УȲ2⸮i⸮"G⸮W⸮Č˖-X⸮q⸮⸮⸮2dɒ$I⸮&M⸮7nܹr⸮Ȑ A⸮
++V⸮[⸮mڵk֬Y⸮e˖,X⸮aÇ>}⸮⸮⸮۷o޽z⸮⸮⸮]⸮t⸮ѢG⸮⸮Æm6\ۡc⸮ ⸮⸮⸮F⸮<s⸮ʐ1⸮⸮⸮V ⸮⸮⸮⸮⸮⸮w⸮⸮4⸮Z⸮ʕ*⸮⸮7⸮N⸮⸮/⸮⸮⸮4⸮⸮w⸮⸮⸮*⸮i⸮d⸮z⸮,&w⸮⸮⸮
+?yV⸮qW⸮⸮2sű>Lz⸮⸮⸮E⸮⸮⸮"~⸮x-
+yswr!U⸮'⸮
+RSSI: -43
+SERVER got packet from client: ABCDi⸮GHJH⸮0p⸮Zi⸮⸮҃#G⸮8q⸮ĉ%K⸮.\⸮p⸮⸮⸮FL"U\⸮⸮⸮6⸮⸮">⸮⸮u⸮⸮⸮	r⸮
+⸮+W⸮J6mڰi֬Y⸮e˖,X⸮aÇ>}⸮⸮⸮۷O⸮⸮i⸮⸮⸮L⸮v⸮⸮du⸮0S⸮%+`|⸮⸮s⸮GnU>⸮'⸮⸮?s⸮̘1bŋ-Z⸮iҤH⸮"E⸮)P⸮ʔ^⸮c⸮F⸮⸮m⸮⸮⸮⸮⸮s⸮⸮}cd⸮⸮& ⸮P⸮⸮֦L⸮3f͚5jԨQ⸮F⸮,⸮Ӛo5˥lW⸮⸮⸮/⸮T/⸮⸮⸮⸮*)+Z⸮'O⸮?⸮
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -43
+SERVER got packet from client: ABCDeFGHJHL0⸮⸮⸮⸮⸮@⸮Z⸮If⸮.=t⸮⸮{⸮.L⸮p⸮⸮⸮2⸮ɒ$I⸮&M⸮7nܹr⸮Ȑ A⸮
++V⸮[⸮mڵk֬Y⸮e˖,X⸮aÇ⸮⸮㧇W⸮⸮ލ⸮⸮⸮⸮m|l⸮⸮"Ul"#⸮8⸮M⸮!⸮⸮=⸮⸮B⸮9r⸮⸮⸮3⸮⸮⸮=Z⸮iҤH⸮"E⸮)R⸮J⸮*T⸮S⸮N⸮;w⸮ݻr⸮ٳo⸮Z⸮z⸮⸮⸮f⸮<⸮⸮⸮⸮LY#⸮z֩p⸮G⸮=;A]⸮⸮9u⸮ժU⸮W⸮_⸮|⸮⸮⸮ʔ(P⸮B⸮	'O⸮?⸮
+RSSI: -43
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -95
+

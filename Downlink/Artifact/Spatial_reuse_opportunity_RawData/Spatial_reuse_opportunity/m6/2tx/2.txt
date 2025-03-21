@@ -1,0 +1,136 @@
+18:56:02.780 -> SERVER got packet from client: ABCDi⸮GHJH⸮0p⸮hР@⸮⸮e⸮⸮l5zU⸮>b ⸮M⸮⸮
+⸮#+⸮>x⸮⸮`M⸮⸮ϛ mܹr⸮Ȑ A⸮
+18:56:02.873 -> 8d⸮߮⸮o⸮_⸮{'5F⸮⸮⸮⸮E⸮]⸮-⸮B(⸮5]⸮⸮z⸮⸮׮]⸮t⸮Ѣ⸮\⸮$⸮MN⸮⸮4+⸮
+18:56:02.965 -> 8⸮Dƅ⸮⸮n⸮⸮⸮QÏCkZ⸮i⸮⸮
+⸮"I⸮){3⸮)& ⸮⸮⸮B⸮w⸮C/Qc!֞[g⸮߿~⸮⸮⸮⸮ӦL⸮3~⸮⸮=Z⸮⸮⸮f⸮\0P
+18:56:03.059 -> ⸮⸮1
+18:56:03.059 -> s⸮E⸮U⸮W⸮_⸮|⸮⸮iX	⸮⸮{ț⸮¾⸮1⸮
+18:56:03.988 -> RSSI: -47
+18:56:04.452 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:05.474 -> RSSI: -47
+18:56:06.174 -> SERVER got packet from client: ABCDi⸮GHJHL0⸮⸮⸮⸮bУp⸮#G⸮8q⸮ĉ⸮gO⸮,{MT⸮⸮⸮⼦Yb⸮W
+8EE_⸮W"⸮-⸮('	,+V⸮[⸮mڵk֬Y⸮e˖,Xv⸮⸮(⸮\⸮j⸮.⸮Nk)Q@Of⸮⸮⸮L⸮M⸮ï@⸮
+6lرcǏ<y⸮⸮Μ9s⸮̘1b⸮⸮/J⸮y⸮'⸮⸮⸮ӻ⸮!S⸮⸮⸮⸮ܙ⸮/M⸮;w⸮ݻv⸮ٳgϞ={⸮⸮߿~⸮⸮⸮⸮Ӧd ⸮ ⸮5NЉ:F⸮\⸮Ƀ⸮:u⸮ժU⸮W⸮_⸮|⸮⸮⸮ʔ(P⸮B*L⸮⸮⸮⸮
+18:56:07.378 -> RSSI: -46
+18:56:07.845 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:08.866 -> RSSI: -47
+18:56:09.565 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:10.538 -> RSSI: -47
+18:56:11.233 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:12.255 -> RSSI: -47
+18:56:12.944 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:13.969 -> RSSI: -46
+18:56:14.664 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:15.638 -> RSSI: -46
+18:56:16.336 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:17.357 -> RSSI: -46
+18:56:18.050 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:19.018 -> RSSI: -46
+18:56:19.757 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:20.736 -> RSSI: -46
+18:56:21.434 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:22.412 -> RSSI: -46
+18:56:23.147 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:24.130 -> RSSI: -46
+18:56:24.818 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:25.842 -> RSSI: -46
+18:56:26.495 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:27.519 -> RSSI: -46
+18:56:28.220 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:29.233 -> RSSI: -46
+18:56:29.931 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:30.908 -> RSSI: -46
+18:56:31.604 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:32.585 -> RSSI: -46
+18:56:33.284 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:34.295 -> RSSI: -46
+18:56:34.994 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:36.020 -> RSSI: -46
+18:56:36.675 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:37.700 -> RSSI: -46
+18:56:38.401 -> SERVER got packet from client: ⸮BCDiwNMJH⸮0p⸮>"i؀V⸮1L#G⸮8q⸮ĉ%K⸮⸮)y|⸮ ⸮⸮⸮$I⸮&M⸮7nܹr⸮Ȑ⸮(⸮+⸮⸮kvu⸮⸮⸮Y⸮e˖,X⸮aÇ}s⸮__Z⸮zq⸮⸮myl⸮ѢD⸮!C⸮
+6lر+⸮LY}⸮⸮J⸮⸮kת⸮2⸮݋-Z⸮iҤH⸮"E⸮)Z ^⸮J⸮⸮~⸮&F(⸮⸮ ⸮ٳgϞ={⸮⸮߿~⸮r⸮⸮ՄV⸮⸮U⸮⸮4,ܘ⸮⸮F⸮0`⸮⸮ :u⸮Ū⸮;L⸮⸮b⸮⸮⸮⸮g|q⸮,'O⸮?⸮
+18:56:39.613 -> RSSI: -46
+18:56:40.079 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:41.106 -> RSSI: -46
+18:56:41.759 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:42.784 -> RSSI: -46
+18:56:43.481 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:44.461 -> RSSI: -47
+18:56:45.160 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:46.189 -> RSSI: -47
+18:56:46.889 -> SERVER got packet from client: ABCDi⸮GHJH⸮0p⸮kР@
+18:56:47.864 -> RSSI: -46
+18:56:48.551 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:49.577 -> RSSI: -46
+18:56:50.277 -> SERVER got packet from client: ABCDi⸮GHJHL0⸮⸮nР@⸮⸮QWD⸮l5⸮#'K⸮.\⸮p⸮⸮⸮⸮7⸮lE⸮f	⸮⸮ l] ⸮ܹr⸮Ȑ⸮C⸮!⸮⸮hQ̗H⸮Td⸮⸮e˖,X⸮c⸮C$:⸮VN ⸮fCwk+P⸮׮]⸮t⸮Ѣՙ⸮⸮⸮/⸮0⸮⸮⸮⸮⸮⸮6⸮U⸮⸮⸮Μ9s⸮̘⸮CpY}⸮Σ⸮TϵD⸮⸮tR⸮J⸮*T⸮S⸮N⸮;b]װ⸮⸮S/⸮⸮1Kd⸮߿~⸮⸮⸮⸮ӦL⸮3f͚2bȸR⸮6,!bŲ⸮
+18:56:50.510 -> :u⸮ժU⸮W⸮_⸮|⸮⸮ʔ@P'"$A&!
+⸮⸮w⸮
+18:56:51.486 -> RSSI: -46
+18:56:51.954 -> SERVER got packet from client: ABCDi⸮GHJHL0⸮⸮h⸮⸮⸮7$
+?⸮%⸮y⸮ĉ%K⸮.\⸮p⸮⸮
+⸮W/⸮⸮m⸮rI⸮⸮ͫ7nܹr⸮Ȑ A⸮
+18:56:52.047 -> L⸮
+⸮⸮z⸮⸮⸮jтe˖,X⸮aÇ>]⸮⸮ǆeʍ<⸮ڱ⸮]⸮t⸮ѢD⸮!C⸮o⸮>o⸮3⸮⸮.⸮h⸮cΜ9s⸮̘1bŋ-⸮y⸮⸮⸮⸮⸮E⸮⸮)R⸮J⸮*T⸮S⸮.⸮;⸮⸮Q⸮Q⸮⸮⸮⸮X5{⸮⸮߿~⸮⸮⸮⸮Ӧ⸮#⸮⸮ɩP⸮⸮⸮F⸮0`⸮⸮ ⸮u⸮|⸮⸮s⸮9⸮O_⸮⸮ʔ(P⸮B	q⸮O⸮:⸮⸮
+18:56:53.210 -> RSSI: -46
+18:56:53.663 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:54.640 -> RSSI: -46
+18:56:55.337 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:56.360 -> RSSI: -46
+18:56:57.061 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:58.034 -> RSSI: -46
+18:56:58.733 -> SERVER got packet from client: ABCDEFGHJKL
+18:56:59.761 -> RSSI: -46
+18:57:00.460 -> SERVER got packet from client: ABCDi&GHJHL0⸮⸮hР@⸮⸮⸮*⸮t6⸮⸮y⸮4⸮4⸮⸮⸮⸮y⸮Q⸮N⸮4T+,2dɒ$I⸮&M⸮7nܹr$Ȑ⸮#>a⸮|⸮Mߝ⸮N⸮⸮֯Q⸮3⸮⸮P⸮aÇ>}⸮⸮⸮۷o޽z⸮⸮׮]⸮t⸮]⸮⸮ B⸮
++t}>⸮c⸮⸮⸮q⸮$ʜ9s⸮̘1bŋ-Z⸮iҤH⸮"E⸮⸮)P⸮Jԯ⸮⸮s⸮N⸮sG⸮ݻn⸮%/Ϙ={⸮⸮߿~⸮⸮⸮⸮ӦL⸮3f͚5j⸮⸮Q⸮G⸮⸮1iɑ7⸮y⸮}⸮*U⸮S⸮	⸮E⸮⸮⸮ʔ(P⸮B⸮	'O⸮?⸮
+18:57:01.666 -> RSSI: -46
+18:57:02.133 -> SERVER got packet from client: ABCDi⸮GHJH⸮0⸮⸮$hР@⸮W⸮"⸮⸮M⸮mӤ
+18:57:03.160 -> RSSI: -46
+18:57:03.849 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:04.823 -> RSSI: -47
+18:57:05.524 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:06.550 -> RSSI: -47
+18:57:07.204 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:08.228 -> RSSI: -47
+18:57:08.924 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:09.902 -> RSSI: -47
+18:57:10.599 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:11.626 -> RSSI: -47
+18:57:12.325 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:13.292 -> RSSI: -47
+18:57:13.986 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:15.006 -> RSSI: -47
+18:57:15.693 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:16.713 -> RSSI: -47
+18:57:17.413 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:18.388 -> RSSI: -47
+18:57:19.084 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:20.104 -> RSSI: -46
+18:57:20.800 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:21.777 -> RSSI: -47
+18:57:22.476 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:23.503 -> RSSI: -48
+18:57:24.190 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:25.165 -> RSSI: -47
+18:57:25.865 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:26.879 -> RSSI: -46
+18:57:27.571 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:28.593 -> RSSI: -46
+18:57:29.286 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:30.262 -> RSSI: -46
+18:57:30.957 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:31.981 -> RSSI: -46
+18:57:32.679 -> SERVER got packet from client: ⸮BCDi⸮GHJH⸮0⸮⸮hР@⸮	
+18:57:32.725 -> ⸮⸮⸮⸮/⸮s⸮⸮w%K⸮.\⸮p⸮⸮⸮2d⸮⸮I⸮&]⸮W⸮⸮⸮n⸮
+⸮⸮⸮
+18:57:32.773 -> +V⸮[⸮mڵk֬Y⸮e⸮⸮#H⸮߇j⸮⸮⸮⸮+⸮⸮⸮ֽz⸮⸮׮]⸮t⸮ѢD⸮!C⸮
+⸮6n;⸮1⸮_⸮¡ά⸮k⸮⸮1bŋ-Z⸮iҤH⸮"E⸮)0)⸮⸮j蛓⸮~⸮폊d⸮ugϞ={⸮⸮߿~⸮⸮⸮⸮ӦL⸮3fD⸮d⸮⸮e)0⸮⸮⸮(:u⸮ժU⸮W⸮_⸮|⸮⸮⸮Lu5@⸮⸮EGc⸮}⸮⸮
+18:57:33.888 -> RSSI: -47
+18:57:34.353 -> SERVER got packet from client: ⸮BCDiwGHJH⸮0p⸮kР@⸮#G⸮2q⸮H⸮q⸮JħH⸮8⸮g	aգ
+⸮⸮⸮⸮⸮n⸮⸮⸮`⸮
+18:57:34.446 -> L%kp⸮⸮ww⸮⸮Q⸮%⸮ Hеa⸮⸮
+18:57:34.493 -> ⸮⸮⸮⸮kӇ⸮֎⸮⸮⸮⸮lz|⸮⸮E.⸮⸮8⸮2\⸮cǏ.<y⸮⸮Μ9s⸮̘1bŋ-Z⸮iҤH⸮"E⸮)R⸮J⸮*T⸮S⸮N⸮;w⸮ݻv⸮ٳgϒ1p⸮⸮ݟ(⸮⸮⸮⸮Z⸮N⸮⸮⸮
+18:57:34.586 -> 7y
+18:57:35.563 -> RSSI: -47
+18:57:36.071 -> SERVER got packet from client: ABCDEFGHJKL
+18:57:37.033 -> RSSI: -48
