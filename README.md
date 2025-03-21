@@ -47,9 +47,9 @@ Below is the protocol of HydraNet, illustrating how it achieve spatial reuse in 
 - *Download the real-world uplink data (.dat) from the github release: https://github.com/LeonaRnLi/HydraNet/releases/tag/uplink*.
 ---
 - **Downlink:** We provide data traces in downlink from Arduino monitor that reproduce how to process HydraNet downlink data and provide combined power beam packets generation functions.
-- 
-*Open the "Downlink" folder, and run two main files, you can get the combined packets with different weight*.
+- *To evaluate real-world deployment PRR, open the **Downlink/Artifact/** folder and run exp_eval_plot_Spatial_Reuse_2_tx_CDF_PRR.m. This script computes the Packet Reception Ratio (PRR) and generates the CDF curve used in our evaluation*.
 
+***You may also modify this exp_eval_plot_Spatial_Reuse_2_tx_CDF_PRR.m file to compute the PRR of your own experiments, such as results from the COTS node monitor, for immediate evaluation***.
 
 ### **To Run the HydraNet on Your Testbed**
 - **Uplink & Downlink** We provide .grc files and python framework for GNU Radio and .m for the power beamforming named example_classicMUSIC_RSS_2x2.m.
@@ -62,6 +62,7 @@ Below is the protocol of HydraNet, illustrating how it achieve spatial reuse in 
 *5. Open the downlink/GNU_file folder, use beamforming_2x2.grc and verify the .dat file, the Tx power need to be set as Tx_power_2x2.json (you can enhace the Tx power with margin to make the system more robust)*.<br>  
 
 ## Video Demo
+Coming soon...
 
 ## 📢 Contact & Citation
 For questions, open an issue or contact:
