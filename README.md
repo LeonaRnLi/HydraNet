@@ -41,12 +41,10 @@ Below is the protocol of HydraNet, illustrating how it achieve spatial reuse in 
 ## 🛠 Deploying & Running HydraNet on a LoRa Testbed
 ### **To Run the Artifact with Provided Data Trace**  
 
-- **Uplink:** We provide two data traces in uplink that reproduce the key functions of HydraNet.
+- **Uplink:** We provide data traces in uplink that reproduce the key functions of HydraNet.
 
 *Open the "Uplink" folder, and run two main files, the detected packets and symbol error number are printed on the command window*.
-
-*(refer to Figure 3 and Figure 5)*.
-
+- *Download the real-world uplink data (.dat) from the github release: https://github.com/LeonaRnLi/HydraNet/releases/tag/uplink*.
 ---
 - **Downlink:** We provide data traces in downlink from Arduino monitor that reproduce how to process HydraNet downlink data and provide combined power beam packets generation functions.
 *Open the "Downlink" folder, and run two main files, you can get the combined packets with different weight*.
