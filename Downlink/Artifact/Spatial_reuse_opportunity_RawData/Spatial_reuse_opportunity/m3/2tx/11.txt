@@ -1,0 +1,668 @@
+19:45:21.062 -> SERVER got packet from client: 123456789#
+19:45:22.059 -> RSSI: -46
+19:45:22.723 -> SERVER got packet from client: 123456789#
+19:45:23.719 -> RSSI: -46
+19:45:24.432 -> SERVER got packet from client: 123456789#
+19:45:25.426 -> RSSI: -46
+19:45:26.134 -> SERVER got packet from client: 123456789#
+19:45:27.134 -> RSSI: -46
+19:45:27.843 -> SERVER got packet from client: 123456789#
+19:45:28.838 -> RSSI: -46
+19:45:29.506 -> SERVER got packet from client: 123456789#
+19:45:30.502 -> RSSI: -46
+19:45:31.214 -> SERVER got packet from client: 123456789#
+19:45:32.212 -> RSSI: -46
+19:45:32.919 -> SERVER got packet from client: 123456789#
+19:45:33.916 -> RSSI: -46
+19:45:34.580 -> SERVER got packet from client: 123456789#
+19:45:35.623 -> RSSI: -46
+19:45:36.288 -> SERVER got packet from client: 123456789#
+19:45:37.282 -> RSSI: -45
+19:45:37.995 -> SERVER got packet from client: 123456789#
+19:45:38.990 -> RSSI: -45
+19:45:39.699 -> SERVER got packet from client: 123456789#
+19:45:40.695 -> RSSI: -45
+19:45:41.410 -> SERVER got packet from client: 123456789#
+19:45:42.408 -> RSSI: -45
+19:45:43.070 -> SERVER got packet from client: 123456789#
+19:45:44.064 -> RSSI: -45
+19:45:44.777 -> SERVER got packet from client: 123456789#
+19:45:45.773 -> RSSI: -46
+19:45:46.484 -> SERVER got packet from client: 123456789#
+19:45:47.477 -> RSSI: -46
+19:45:48.191 -> SERVER got packet from client: 123456789#
+19:45:49.187 -> RSSI: -46
+19:45:49.849 -> SERVER got packet from client: 123456789#
+19:45:50.894 -> RSSI: -46
+19:45:51.557 -> SERVER got packet from client: 123456789#
+19:45:52.552 -> RSSI: -46
+19:45:53.267 -> SERVER got packet from client: 123456789#
+19:45:54.266 -> RSSI: -46
+19:45:54.976 -> SERVER got packet from client: 123456789#
+19:45:55.971 -> RSSI: -46
+19:45:56.635 -> SERVER got packet from client: 123456789#
+19:45:57.633 -> RSSI: -46
+19:46:00.053 -> SERVER got packet from client: 123456789#
+19:46:01.050 -> RSSI: -46
+19:46:01.759 -> SERVER got packet from client: 123456789#
+19:46:02.755 -> RSSI: -46
+19:46:03.420 -> SERVER got packet from client: 123456789#
+19:46:04.415 -> RSSI: -46
+19:46:05.125 -> SERVER got packet from client: 123456789#
+19:46:06.119 -> RSSI: -46
+19:46:06.830 -> SERVER got packet from client: 123456789#
+19:46:07.824 -> RSSI: -46
+19:46:10.198 -> SERVER got packet from client: 123456789#
+19:46:11.243 -> RSSI: -46
+19:46:11.911 -> SERVER got packet from client: 123456789#
+19:46:12.906 -> RSSI: -46
+19:46:15.318 -> SERVER got packet from client: 123456789#
+19:46:16.311 -> RSSI: -46
+19:46:17.023 -> SERVER got packet from client: 123456789#
+19:46:18.021 -> RSSI: -46
+19:46:18.686 -> SERVER got packet from client: 123456789#
+19:46:19.682 -> RSSI: -46
+19:46:20.395 -> SERVER got packet from client: 123456789#
+19:46:21.385 -> RSSI: -46
+19:46:22.096 -> SERVER got packet from client: 123456789#
+19:46:23.090 -> RSSI: -47
+19:46:23.799 -> SERVER got packet from client: 123456789#
+19:46:24.797 -> RSSI: -47
+19:46:25.508 -> SERVER got packet from client: 123456789#
+19:46:26.505 -> RSSI: -47
+19:46:28.875 -> SERVER got packet from client: 123456789#
+19:46:29.869 -> RSSI: -46
+19:46:30.577 -> SERVER got packet from client: 123456789#
+19:46:31.574 -> RSSI: -47
+19:46:32.285 -> SERVER got packet from client: 123456789#
+19:46:33.285 -> RSSI: -48
+19:46:33.947 -> SERVER got packet from client: 123456789#
+19:46:34.988 -> RSSI: -47
+19:46:37.357 -> SERVER got packet from client: 123456789#
+19:46:38.351 -> RSSI: -47
+19:46:39.063 -> SERVER got packet from client: 123456789#
+19:46:40.055 -> RSSI: -47
+19:46:40.763 -> SERVER got packet from client: 123456789#
+19:46:41.758 -> RSSI: -47
+19:46:42.425 -> SERVER got packet from client: 123456789#
+19:46:43.423 -> RSSI: -48
+19:46:44.136 -> SERVER got packet from client: 123456789#
+19:46:45.135 -> RSSI: -47
+19:46:45.851 -> SERVER got packet from client: 123456789#
+19:46:46.846 -> RSSI: -47
+19:46:47.512 -> SERVER got packet from client: 123456789#
+19:46:48.554 -> RSSI: -46
+19:46:49.221 -> SERVER got packet from client: 123456789#
+19:46:50.216 -> RSSI: -47
+19:46:50.925 -> SERVER got packet from client: 123456789#
+19:46:51.919 -> RSSI: -47
+19:46:52.633 -> SERVER got packet from client: 123456789#
+19:46:53.628 -> RSSI: -47
+19:46:54.338 -> SERVER got packet from client: 123456789#
+19:46:55.335 -> RSSI: -47
+19:46:55.998 -> SERVER got packet from client: 123456789#
+19:46:56.994 -> RSSI: -47
+19:46:57.704 -> SERVER got packet from client: 123456789#
+19:46:58.699 -> RSSI: -47
+19:46:59.409 -> SERVER got packet from client: 123456789#
+19:47:00.403 -> RSSI: -47
+19:47:01.116 -> SERVER got packet from client: 123456789#
+19:47:02.112 -> RSSI: -47
+19:47:02.778 -> SERVER got packet from client: 123456789#
+19:47:03.776 -> RSSI: -47
+19:47:04.487 -> SERVER got packet from client: 123456789#
+19:47:05.484 -> RSSI: -47
+19:47:06.193 -> SERVER got packet from client: 123456789#
+19:47:07.191 -> RSSI: -47
+19:47:07.899 -> SERVER got packet from client: 123456789#
+19:47:08.891 -> RSSI: -47
+19:47:09.557 -> SERVER got packet from client: 123456789#
+19:47:10.560 -> RSSI: -46
+19:47:11.269 -> SERVER got packet from client: 123456789#
+19:47:12.261 -> RSSI: -46
+19:47:12.974 -> SERVER got packet from client: 123456789#
+19:47:13.967 -> RSSI: -46
+19:47:14.674 -> SERVER got packet from client: 123456789#
+19:47:15.675 -> RSSI: -46
+19:47:16.387 -> SERVER got packet from client: 123456789#
+19:47:17.388 -> RSSI: -46
+19:47:18.052 -> SERVER got packet from client: 123456789#
+19:47:19.047 -> RSSI: -46
+19:47:19.757 -> SERVER got packet from client: 123456789#
+19:47:20.751 -> RSSI: -46
+19:47:21.462 -> SERVER got packet from client: 123456789#
+19:47:22.455 -> RSSI: -46
+19:47:23.165 -> SERVER got packet from client: 123456789#
+19:47:24.162 -> RSSI: -46
+19:47:24.825 -> SERVER got packet from client: 123456789#
+19:47:25.821 -> RSSI: -46
+19:47:26.532 -> SERVER got packet from client: 123456789#
+19:47:27.528 -> RSSI: -46
+19:47:28.241 -> SERVER got packet from client: 123456789#
+19:47:29.237 -> RSSI: -47
+19:47:29.945 -> SERVER got packet from client: 123456789#
+19:47:30.936 -> RSSI: -47
+19:47:31.646 -> SERVER got packet from client: 123456789#
+19:47:32.643 -> RSSI: -47
+19:47:33.309 -> SERVER got packet from client: 123456789#
+19:47:34.305 -> RSSI: -47
+19:47:35.019 -> SERVER got packet from client: 123456789#
+19:47:36.015 -> RSSI: -47
+19:47:36.723 -> SERVER got packet from client: 123456789#
+19:47:37.716 -> RSSI: -47
+19:47:38.432 -> SERVER got packet from client: 123456789#
+19:47:39.424 -> RSSI: -47
+19:47:40.132 -> SERVER got packet from client: 123456789#
+19:47:41.127 -> RSSI: -48
+19:47:41.791 -> SERVER got packet from client: 123456789#
+19:47:42.784 -> RSSI: -47
+19:47:43.495 -> SERVER got packet from client: 123456789#
+19:47:44.490 -> RSSI: -47
+19:47:45.203 -> SERVER got packet from client: 123456789#
+19:47:46.198 -> RSSI: -46
+19:47:46.907 -> SERVER got packet from client: 123456789#
+19:47:47.901 -> RSSI: -46
+19:47:48.566 -> SERVER got packet from client: 123456789#
+19:47:49.606 -> RSSI: -46
+19:47:50.271 -> SERVER got packet from client: 123456789#
+19:47:51.265 -> RSSI: -47
+19:47:51.976 -> SERVER got packet from client: 123456789#
+19:47:52.973 -> RSSI: -46
+19:47:53.684 -> SERVER got packet from client: 123456789#
+19:47:54.673 -> RSSI: -46
+19:47:57.090 -> SERVER got packet from client: 123456789#
+19:47:58.086 -> RSSI: -46
+19:47:58.749 -> SERVER got packet from client: 123456789#
+19:47:59.744 -> RSSI: -46
+19:48:03.866 -> SERVER got packet from client: 123456789#
+19:48:04.860 -> RSSI: -46
+19:48:05.570 -> SERVER got packet from client: 123456789#
+19:48:06.566 -> RSSI: -46
+19:48:07.229 -> SERVER got packet from client: 123456789#
+19:48:08.226 -> RSSI: -46
+19:48:08.936 -> SERVER got packet from client: 123456789#
+19:48:09.930 -> RSSI: -46
+19:48:10.643 -> SERVER got packet from client: 123456789#
+19:48:11.639 -> RSSI: -47
+19:48:12.351 -> SERVER got packet from client: 123456789#
+19:48:13.346 -> RSSI: -47
+19:48:14.011 -> SERVER got packet from client: 123456789#
+19:48:15.053 -> RSSI: -47
+19:48:15.715 -> SERVER got packet from client: 123456789#
+19:48:16.710 -> RSSI: -46
+19:48:17.422 -> SERVER got packet from client: 123456789#
+19:48:18.412 -> RSSI: -46
+19:48:19.124 -> SERVER got packet from client: 123456789#
+19:48:20.117 -> RSSI: -46
+19:48:20.826 -> SERVER got packet from client: 123456789#
+19:48:21.824 -> RSSI: -46
+19:48:22.491 -> SERVER got packet from client: 123456789#
+19:48:23.488 -> RSSI: -46
+19:48:24.198 -> SERVER got packet from client: 123456789#
+19:48:25.196 -> RSSI: -46
+19:48:25.908 -> SERVER got packet from client: 123456789#
+19:48:26.903 -> RSSI: -46
+19:48:27.613 -> SERVER got packet from client: 123456789#
+19:48:28.610 -> RSSI: -46
+19:48:29.271 -> SERVER got packet from client: 123456789#
+19:48:30.316 -> RSSI: -46
+19:48:30.981 -> SERVER got packet from client: 123456789#
+19:48:31.976 -> RSSI: -46
+19:48:34.391 -> SERVER got packet from client: 123456789#
+19:48:35.388 -> RSSI: -46
+19:48:36.095 -> SERVER got packet from client: 123456789#
+19:48:37.090 -> RSSI: -46
+19:48:37.757 -> SERVER got packet from client: 123456789#
+19:48:38.752 -> RSSI: -46
+19:48:39.463 -> SERVER got packet from client: 123456789#
+19:48:40.459 -> RSSI: -46
+19:48:41.169 -> SERVER got packet from client: 123456789#
+19:48:42.165 -> RSSI: -46
+19:48:42.874 -> SERVER got packet from client: 123456789#
+19:48:43.874 -> RSSI: -46
+19:48:44.541 -> SERVER got packet from client: 123456789#
+19:48:45.536 -> RSSI: -46
+19:48:46.247 -> SERVER got packet from client: 123456789#
+19:48:47.242 -> RSSI: -46
+19:48:47.955 -> SERVER got packet from client: 123456789#
+19:48:48.950 -> RSSI: -46
+19:48:49.659 -> SERVER got packet from client: 123456789#
+19:48:50.658 -> RSSI: -46
+19:48:51.325 -> SERVER got packet from client: 123456789#
+19:48:52.321 -> RSSI: -46
+19:48:53.036 -> SERVER got packet from client: 123456789#
+19:48:54.035 -> RSSI: -47
+19:48:54.747 -> SERVER got packet from client: 123456789#
+19:48:55.744 -> RSSI: -47
+19:48:56.408 -> SERVER got packet from client: 123456789#
+19:48:57.450 -> RSSI: -46
+19:48:58.113 -> SERVER got packet from client: 123456789#
+19:48:59.107 -> RSSI: -46
+19:48:59.820 -> SERVER got packet from client: 123456789#
+19:49:00.820 -> RSSI: -47
+19:49:03.230 -> SERVER got packet from client: 123456789#
+19:49:04.226 -> RSSI: -47
+19:49:06.594 -> SERVER got packet from client: 123456789#
+19:49:07.590 -> RSSI: -46
+19:49:08.302 -> SERVER got packet from client: 123456789#
+19:49:09.301 -> RSSI: -46
+19:49:10.011 -> SERVER got packet from client: 123456789#
+19:49:11.004 -> RSSI: -46
+19:49:11.672 -> SERVER got packet from client: 123456789#
+19:49:12.716 -> RSSI: -46
+19:49:13.380 -> SERVER got packet from client: 123456789#
+19:49:14.381 -> RSSI: -46
+19:49:15.091 -> SERVER got packet from client: 123456789#
+19:49:16.087 -> RSSI: -46
+19:49:16.797 -> SERVER got packet from client: 123456789#
+19:49:17.789 -> RSSI: -46
+19:49:18.455 -> SERVER got packet from client: 123456789#
+19:49:19.496 -> RSSI: -46
+19:49:20.160 -> SERVER got packet from client: 123456789#
+19:49:21.154 -> RSSI: -46
+19:49:21.869 -> SERVER got packet from client: 123456789#
+19:49:22.864 -> RSSI: -46
+19:49:23.577 -> SERVER got packet from client: 123456789#
+19:49:24.568 -> RSSI: -46
+19:49:25.275 -> SERVER got packet from client: 123456789#
+19:49:26.265 -> RSSI: -46
+19:49:26.978 -> SERVER got packet from client: 123456789#
+19:49:27.969 -> RSSI: -46
+19:49:28.632 -> SERVER got packet from client: 123456789#
+19:49:29.675 -> RSSI: -46
+19:49:30.339 -> SERVER got packet from client: 123456789#
+19:49:31.339 -> RSSI: -46
+19:49:32.047 -> SERVER got packet from client: 123456789#
+19:49:33.039 -> RSSI: -46
+19:49:33.746 -> SERVER got packet from client: 123456789#
+19:49:34.745 -> RSSI: -46
+19:49:35.457 -> SERVER got packet from client: 123456789#
+19:49:36.456 -> RSSI: -46
+19:49:37.119 -> SERVER got packet from client: 123456789#
+19:49:38.113 -> RSSI: -46
+19:49:38.821 -> SERVER got packet from client: 123456789#
+19:49:39.817 -> RSSI: -46
+19:49:40.526 -> SERVER got packet from client: 123456789#
+19:49:41.521 -> RSSI: -46
+19:49:42.231 -> SERVER got packet from client: 123456789#
+19:49:43.227 -> RSSI: -46
+19:49:43.939 -> SERVER got packet from client: 123456789#
+19:49:44.937 -> RSSI: -46
+19:49:45.601 -> SERVER got packet from client: 123456789#
+19:49:46.600 -> RSSI: -46
+19:49:47.309 -> SERVER got packet from client: 123456789#
+19:49:48.306 -> RSSI: -46
+19:49:49.018 -> SERVER got packet from client: 123456789#
+19:49:50.013 -> RSSI: -46
+19:49:50.721 -> SERVER got packet from client: 123456789#
+19:49:51.715 -> RSSI: -46
+19:49:52.378 -> SERVER got packet from client: 123456789#
+19:49:53.375 -> RSSI: -46
+19:49:54.089 -> SERVER got packet from client: 123456789#
+19:49:55.088 -> RSSI: -46
+19:49:55.799 -> SERVER got packet from client: 123456789#
+19:49:56.799 -> RSSI: -46
+19:49:57.462 -> SERVER got packet from client: 123456789#
+19:49:58.505 -> RSSI: -46
+19:49:59.167 -> SERVER got packet from client: 123456789#
+19:50:00.166 -> RSSI: -46
+19:50:00.879 -> SERVER got packet from client: 123456789#
+19:50:01.877 -> RSSI: -46
+19:50:02.591 -> SERVER got packet from client: 123456789#
+19:50:03.589 -> RSSI: -46
+19:50:05.958 -> SERVER got packet from client: 123456789#
+19:50:06.952 -> RSSI: -46
+19:50:07.659 -> SERVER got packet from client: 123456789#
+19:50:08.656 -> RSSI: -46
+19:50:11.028 -> SERVER got packet from client: 123456789#
+19:50:12.072 -> RSSI: -47
+19:50:12.735 -> SERVER got packet from client: 123456789#
+19:50:13.728 -> RSSI: -47
+19:50:14.440 -> SERVER got packet from client: 123456789#
+19:50:15.435 -> RSSI: -47
+19:50:16.147 -> SERVER got packet from client: 123456789#
+19:50:17.146 -> RSSI: -46
+19:50:17.858 -> SERVER got packet from client: 123456789#
+19:50:18.853 -> RSSI: -46
+19:50:19.517 -> SERVER got packet from client: 123456789#
+19:50:20.513 -> RSSI: -46
+19:50:21.226 -> SERVER got packet from client: 123456789#
+19:50:22.222 -> RSSI: -46
+19:50:22.931 -> SERVER got packet from client: 123456789#
+19:50:23.925 -> RSSI: -46
+19:50:24.635 -> SERVER got packet from client: 123456789#
+19:50:25.626 -> RSSI: -46
+19:50:26.333 -> SERVER got packet from client: 123456789#
+19:50:27.330 -> RSSI: -46
+19:50:27.993 -> SERVER got packet from client: 123456789#
+19:50:29.038 -> RSSI: -46
+19:50:29.700 -> SERVER got packet from client: 123456789#
+19:50:30.694 -> RSSI: -46
+19:50:33.113 -> SERVER got packet from client: 123456789#
+19:50:34.108 -> RSSI: -46
+19:50:34.773 -> SERVER got packet from client: 123456789#
+19:50:35.775 -> RSSI: -46
+19:50:36.483 -> SERVER got packet from client: 123456789#
+19:50:37.481 -> RSSI: -46
+19:50:38.191 -> SERVER got packet from client: 123456789#
+19:50:39.185 -> RSSI: -46
+19:50:41.562 -> SERVER got packet from client: 123456789#
+19:50:42.559 -> RSSI: -46
+19:50:43.271 -> SERVER got packet from client: 123456789#
+19:50:44.264 -> RSSI: -46
+19:50:44.974 -> SERVER got packet from client: 123456789#
+19:50:45.969 -> RSSI: -46
+19:50:46.682 -> SERVER got packet from client: 123456789#
+19:50:47.680 -> RSSI: -46
+19:50:48.345 -> SERVER got packet from client: 123456789#
+19:50:49.384 -> RSSI: -46
+19:50:50.047 -> SERVER got packet from client: 123456789#
+19:50:51.048 -> RSSI: -46
+19:50:51.757 -> SERVER got packet from client: 123456789#
+19:50:52.753 -> RSSI: -46
+19:50:53.464 -> SERVER got packet from client: 123456789#
+19:50:54.460 -> RSSI: -46
+19:50:55.124 -> SERVER got packet from client: 123456789#
+19:50:56.170 -> RSSI: -46
+19:50:58.542 -> SERVER got packet from client: 123456789#
+19:50:59.537 -> RSSI: -46
+19:51:00.246 -> SERVER got packet from client: 123456789#
+19:51:01.240 -> RSSI: -46
+19:51:01.951 -> SERVER got packet from client: 123456789#
+19:51:02.945 -> RSSI: -46
+19:51:05.308 -> SERVER got packet from client: 123456789#
+19:51:06.305 -> RSSI: -46
+19:51:07.015 -> SERVER got packet from client: 123456789#
+19:51:08.008 -> RSSI: -46
+19:51:10.424 -> SERVER got packet from client: 123456789#
+19:51:11.420 -> RSSI: -46
+19:51:12.129 -> SERVER got packet from client: 123456789#
+19:51:13.124 -> RSSI: -46
+19:51:13.789 -> SERVER got packet from client: 123456789#
+19:51:14.782 -> RSSI: -46
+19:51:15.493 -> SERVER got packet from client: 123456789#
+19:51:16.491 -> RSSI: -46
+19:51:17.205 -> SERVER got packet from client: 123456789#
+19:51:18.200 -> RSSI: -46
+19:51:18.908 -> SERVER got packet from client: 123456789#
+19:51:19.903 -> RSSI: -46
+19:51:20.569 -> SERVER got packet from client: 123456789#
+19:51:21.609 -> RSSI: -45
+19:51:22.276 -> SERVER got packet from client: 123456789#
+19:51:23.273 -> RSSI: -46
+19:51:23.982 -> SERVER got packet from client: 123456789#
+19:51:24.975 -> RSSI: -46
+19:51:25.687 -> SERVER got packet from client: 123456789#
+19:51:26.681 -> RSSI: -46
+19:51:27.392 -> SERVER got packet from client: 123456789#
+19:51:28.387 -> RSSI: -46
+19:51:29.051 -> SERVER got packet from client: 123456789#
+19:51:30.090 -> RSSI: -46
+19:51:30.751 -> SERVER got packet from client: 123456789#
+19:51:31.744 -> RSSI: -46
+19:51:32.452 -> SERVER got packet from client: 123456789#
+19:51:33.447 -> RSSI: -46
+19:51:34.159 -> SERVER got packet from client: 123456789#
+19:51:35.154 -> RSSI: -46
+19:51:35.867 -> SERVER got packet from client: 123456789#
+19:51:36.864 -> RSSI: -46
+19:51:37.527 -> SERVER got packet from client: 123456789#
+19:51:38.567 -> RSSI: -46
+19:51:39.229 -> SERVER got packet from client: 123456789#
+19:51:40.223 -> RSSI: -46
+19:51:40.937 -> SERVER got packet from client: 123456789#
+19:51:41.935 -> RSSI: -46
+19:51:42.646 -> SERVER got packet from client: 123456789#
+19:51:43.636 -> RSSI: -46
+19:51:44.345 -> SERVER got packet from client: 123456789#
+19:51:45.336 -> RSSI: -46
+19:51:46.047 -> SERVER got packet from client: 123456789#
+19:51:47.043 -> RSSI: -46
+19:51:47.707 -> SERVER got packet from client: 123456789#
+19:51:48.747 -> RSSI: -46
+19:51:49.408 -> SERVER got packet from client: 123456789#
+19:51:50.406 -> RSSI: -46
+19:51:52.824 -> SERVER got packet from client: 123456789#
+19:51:53.824 -> RSSI: -46
+19:51:54.488 -> SERVER got packet from client: 123456789#
+19:51:55.531 -> RSSI: -46
+19:51:56.194 -> SERVER got packet from client: 123456789#
+19:51:57.191 -> RSSI: -46
+19:51:57.904 -> SERVER got packet from client: 123456789#
+19:51:58.898 -> RSSI: -46
+19:51:59.613 -> SERVER got packet from client: 123456789#
+19:52:00.605 -> RSSI: -46
+19:52:01.313 -> SERVER got packet from client: 123456789#
+19:52:02.312 -> RSSI: -46
+19:52:02.979 -> SERVER got packet from client: 123456789#
+19:52:03.975 -> RSSI: -46
+19:52:04.686 -> SERVER got packet from client: 123456789#
+19:52:05.680 -> RSSI: -46
+19:52:06.390 -> SERVER got packet from client: 123456789#
+19:52:07.385 -> RSSI: -46
+19:52:08.095 -> SERVER got packet from client: 123456789#
+19:52:09.090 -> RSSI: -46
+19:52:09.755 -> SERVER got packet from client: 123456789#
+19:52:10.750 -> RSSI: -46
+19:52:11.460 -> SERVER got packet from client: 123456789#
+19:52:12.461 -> RSSI: -46
+19:52:13.169 -> SERVER got packet from client: 123456789#
+19:52:14.166 -> RSSI: -46
+19:52:14.874 -> SERVER got packet from client: 123456789#
+19:52:15.869 -> RSSI: -46
+19:52:16.576 -> SERVER got packet from client: 123456789#
+19:52:17.564 -> RSSI: -46
+19:52:18.229 -> SERVER got packet from client: 123456789#
+19:52:19.270 -> RSSI: -46
+19:52:19.933 -> SERVER got packet from client: 123456789#
+19:52:20.930 -> RSSI: -46
+19:52:21.639 -> SERVER got packet from client: 123456789#
+19:52:22.636 -> RSSI: -46
+19:52:23.346 -> SERVER got packet from client: 123456789#
+19:52:24.342 -> RSSI: -46
+19:52:25.050 -> SERVER got packet from client: 123456789#
+19:52:26.045 -> RSSI: -46
+19:52:26.710 -> SERVER got packet from client: 123456789#
+19:52:27.753 -> RSSI: -46
+19:52:28.416 -> SERVER got packet from client: 123456789#
+19:52:29.413 -> RSSI: -46
+19:52:30.126 -> SERVER got packet from client: 123456789#
+19:52:31.124 -> RSSI: -46
+19:52:31.835 -> SERVER got packet from client: 123456789#
+19:52:32.831 -> RSSI: -46
+19:52:33.497 -> SERVER got packet from client: 123456789#
+19:52:34.495 -> RSSI: -46
+19:52:35.209 -> SERVER got packet from client: 123456789#
+19:52:36.202 -> RSSI: -46
+19:52:36.916 -> SERVER got packet from client: 123456789#
+19:52:37.908 -> RSSI: -46
+19:52:38.619 -> SERVER got packet from client: 123456789#
+19:52:39.613 -> RSSI: -46
+19:52:40.280 -> SERVER got packet from client: 123456789#
+19:52:41.323 -> RSSI: -46
+19:52:41.986 -> SERVER got packet from client: 123456789#
+19:52:42.984 -> RSSI: -46
+19:52:43.691 -> SERVER got packet from client: 123456789#
+19:52:44.682 -> RSSI: -46
+19:52:47.104 -> SERVER got packet from client: 123456789#
+19:52:48.094 -> RSSI: -46
+19:52:48.756 -> SERVER got packet from client: 123456789#
+19:52:49.795 -> RSSI: -46
+19:52:50.462 -> SERVER got packet from client: 123456789#
+19:52:51.457 -> RSSI: -46
+19:52:52.169 -> SERVER got packet from client: 123456789#
+19:52:53.164 -> RSSI: -46
+19:52:53.874 -> SERVER got packet from client: 123456789#
+19:52:54.866 -> RSSI: -46
+19:52:55.579 -> SERVER got packet from client: 123456789#
+19:52:56.575 -> RSSI: -46
+19:52:58.950 -> SERVER got packet from client: 123456789#
+19:52:59.947 -> RSSI: -46
+19:53:00.657 -> SERVER got packet from client: 123456789#
+19:53:01.652 -> RSSI: -46
+19:53:04.025 -> SERVER got packet from client: 123456789#
+19:53:05.025 -> RSSI: -46
+19:53:05.742 -> SERVER got packet from client: 123456789#
+19:53:06.737 -> RSSI: -46
+19:53:07.445 -> SERVER got packet from client: 123456789#
+19:53:08.445 -> RSSI: -46
+19:53:09.106 -> SERVER got packet from client: 123456789#
+19:53:10.150 -> RSSI: -46
+19:53:10.815 -> SERVER got packet from client: 123456789#
+19:53:11.805 -> RSSI: -46
+19:53:12.515 -> SERVER got packet from client: 123456789#
+19:53:13.514 -> RSSI: -46
+19:53:14.221 -> SERVER got packet from client: 123456789#
+19:53:15.215 -> RSSI: -46
+19:53:15.927 -> SERVER got packet from client: 123456789#
+19:53:16.926 -> RSSI: -46
+19:53:17.634 -> SERVER got packet from client: 123456789#
+19:53:18.629 -> RSSI: -46
+19:53:19.291 -> SERVER got packet from client: 123456789#
+19:53:20.287 -> RSSI: -46
+19:53:20.994 -> SERVER got packet from client: 123456789#
+19:53:21.987 -> RSSI: -46
+19:53:22.697 -> SERVER got packet from client: 123456789#
+19:53:23.691 -> RSSI: -46
+19:53:24.402 -> SERVER got packet from client: 123456789#
+19:53:25.401 -> RSSI: -46
+19:53:26.113 -> SERVER got packet from client: 123456789#
+19:53:27.108 -> RSSI: -46
+19:53:27.774 -> SERVER got packet from client: 123456789#
+19:53:28.772 -> RSSI: -46
+19:53:29.480 -> SERVER got packet from client: 123456789#
+19:53:30.473 -> RSSI: -46
+19:53:31.182 -> SERVER got packet from client: 123456789#
+19:53:32.175 -> RSSI: -46
+19:53:32.885 -> SERVER got packet from client: 123456789#
+19:53:33.879 -> RSSI: -46
+19:53:34.591 -> SERVER got packet from client: 123456789#
+19:53:35.589 -> RSSI: -46
+19:53:36.253 -> SERVER got packet from client: 123456789#
+19:53:37.250 -> RSSI: -46
+19:53:37.959 -> SERVER got packet from client: 123456789#
+19:53:38.956 -> RSSI: -46
+19:53:39.668 -> SERVER got packet from client: 123456789#
+19:53:40.664 -> RSSI: -46
+19:53:41.374 -> SERVER got packet from client: 123456789#
+19:53:42.369 -> RSSI: -46
+19:53:43.032 -> SERVER got packet from client: 123456789#
+19:53:44.072 -> RSSI: -46
+19:53:44.736 -> SERVER got packet from client: 123456789#
+19:53:45.731 -> RSSI: -46
+19:53:46.443 -> SERVER got packet from client: 123456789#
+19:53:47.438 -> RSSI: -46
+19:53:48.152 -> SERVER got packet from client: 123456789#
+19:53:49.146 -> RSSI: -45
+19:53:49.856 -> SERVER got packet from client: 123456789#
+19:53:50.854 -> RSSI: -46
+19:53:51.519 -> SERVER got packet from client: 123456789#
+19:53:52.512 -> RSSI: -46
+19:53:54.921 -> SERVER got packet from client: 123456789#
+19:53:55.913 -> RSSI: -46
+19:53:56.627 -> SERVER got packet from client: 123456789#
+19:53:57.621 -> RSSI: -46
+19:53:58.331 -> SERVER got packet from client: 123456789#
+19:53:59.323 -> RSSI: -46
+19:54:00.028 -> SERVER got packet from client: 123456789#
+19:54:01.021 -> RSSI: -46
+19:54:01.728 -> SERVER got packet from client: 123456789#
+19:54:02.724 -> RSSI: -46
+19:54:03.387 -> SERVER got packet from client: 123456789#
+19:54:04.382 -> RSSI: -46
+19:54:05.090 -> SERVER got packet from client: 123456789#
+19:54:06.086 -> RSSI: -46
+19:54:06.801 -> SERVER got packet from client: 123456789#
+19:54:07.801 -> RSSI: -46
+19:54:08.467 -> SERVER got packet from client: 123456789#
+19:54:09.513 -> RSSI: -46
+19:54:10.177 -> SERVER got packet from client: 123456789#
+19:54:11.175 -> RSSI: -46
+19:54:11.886 -> SERVER got packet from client: 123456789#
+19:54:12.878 -> RSSI: -46
+19:54:13.586 -> SERVER got packet from client: 123456789#
+19:54:14.585 -> RSSI: -46
+19:54:15.249 -> SERVER got packet from client: 123456789#
+19:54:16.288 -> RSSI: -46
+19:54:16.954 -> SERVER got packet from client: 123456789#
+19:54:17.949 -> RSSI: -46
+19:54:18.660 -> SERVER got packet from client: 123456789#
+19:54:19.655 -> RSSI: -46
+19:54:20.366 -> SERVER got packet from client: 123456789#
+19:54:21.362 -> RSSI: -46
+19:54:22.070 -> SERVER got packet from client: 123456789#
+19:54:23.061 -> RSSI: -46
+19:54:23.772 -> SERVER got packet from client: 123456789#
+19:54:24.770 -> RSSI: -46
+19:54:25.431 -> SERVER got packet from client: 123456789#
+19:54:26.432 -> RSSI: -46
+19:54:27.139 -> SERVER got packet from client: 123456789#
+19:54:28.130 -> RSSI: -46
+19:54:28.847 -> SERVER got packet from client: 123456789#
+19:54:29.839 -> RSSI: -46
+19:54:30.553 -> SERVER got packet from client: 123456789#
+19:54:31.546 -> RSSI: -46
+19:54:32.209 -> SERVER got packet from client: 123456789#
+19:54:33.256 -> RSSI: -46
+19:54:33.921 -> SERVER got packet from client: 123456789#
+19:54:34.917 -> RSSI: -46
+19:54:35.630 -> SERVER got packet from client: 123456789#
+19:54:36.622 -> RSSI: -46
+19:54:37.335 -> SERVER got packet from client: 123456789#
+19:54:38.330 -> RSSI: -46
+19:54:39.043 -> SERVER got packet from client: 123456789#
+19:54:40.037 -> RSSI: -46
+19:54:40.701 -> SERVER got packet from client: 123456789#
+19:54:41.693 -> RSSI: -46
+19:54:42.406 -> SERVER got packet from client: 123456789#
+19:54:43.403 -> RSSI: -46
+19:54:44.111 -> SERVER got packet from client: 123456789#
+19:54:45.103 -> RSSI: -46
+19:54:45.817 -> SERVER got packet from client: 123456789#
+19:54:46.813 -> RSSI: -46
+19:54:47.477 -> SERVER got packet from client: 123456789#
+19:54:48.516 -> RSSI: -46
+19:54:49.178 -> SERVER got packet from client: 123456789#
+19:54:50.219 -> RSSI: -46
+19:54:50.881 -> SERVER got packet from client: 123456789#
+19:54:51.879 -> RSSI: -46
+19:54:52.588 -> SERVER got packet from client: 123456789#
+19:54:53.582 -> RSSI: -46
+19:54:54.292 -> SERVER got packet from client: 123456789#
+19:54:55.289 -> RSSI: -46
+19:54:55.953 -> SERVER got packet from client: 123456789#
+19:54:56.998 -> RSSI: -46
+19:54:59.370 -> SERVER got packet from client: 123456789#
+19:55:00.367 -> RSSI: -46
+19:55:01.081 -> SERVER got packet from client: 123456789#
+19:55:02.075 -> RSSI: -46
+19:55:02.785 -> SERVER got packet from client: 123456789#
+19:55:03.780 -> RSSI: -46
+19:55:04.443 -> SERVER got packet from client: 123456789#
+19:55:05.482 -> RSSI: -46
+19:55:06.143 -> SERVER got packet from client: 123456789#
+19:55:07.138 -> RSSI: -46
+19:55:07.852 -> SERVER got packet from client: 123456789#
+19:55:08.848 -> RSSI: -46
+19:55:09.556 -> SERVER got packet from client: 123456789#
+19:55:10.554 -> RSSI: -46
+19:55:11.219 -> SERVER got packet from client: 123456789#
+19:55:12.260 -> RSSI: -46
+19:55:12.924 -> SERVER got packet from client: 123456789#
+19:55:13.918 -> RSSI: -46
+19:55:14.630 -> SERVER got packet from client: 123456789#
+19:55:15.626 -> RSSI: -46
+19:55:16.335 -> SERVER got packet from client: 123456789#
+19:55:17.336 -> RSSI: -46
+19:55:18.048 -> SERVER got packet from client: 123456789#
+19:55:19.045 -> RSSI: -46
+19:55:19.707 -> SERVER got packet from client: 123456789#
+19:55:20.701 -> RSSI: -46
+19:55:21.415 -> SERVER got packet from client: 123456789#
+19:55:22.409 -> RSSI: -46
+19:55:23.118 -> SERVER got packet from client: 123456789#
+19:55:24.117 -> RSSI: -46
+19:55:24.827 -> SERVER got packet from client: 123456789#
+19:55:25.821 -> RSSI: -46
+19:55:26.488 -> SERVER got packet from client: 123456789#
+19:55:27.531 -> RSSI: -92
