@@ -53,7 +53,7 @@ Below is the protocol of HydraNet, illustrating how it achieve spatial reuse in 
 
 ### **To Run the HydraNet on Your Testbed**
 - **Uplink & Downlink** We provide .grc files and python framework for GNU Radio and .m for the power beamforming named example_classicMUSIC_RSS_2x2.m.
-- **We give 2x2 Downlink deployment example** which is the main target scenario for HydraNet.
+- **We give 2x2 Downlink deployment example** which is the main target scenario for HydraNet. And you need to download some downlink provided COTS nodes can recognized packets form the github release: https://github.com/LeonaRnLi/HydraNet/releases/tag/downlink
 - ***Step:***  
 *1. Open the "Lora_rf95_server" folder, and upload the server .ino on two LoRa SX1276 nodes for receive the downlink packets*.  <br>  
 *2. Open the "Lora_rf95_server" folder, and upload the client .ino on LoRa nodes to simplify the link probing process, in this code, after upload the monitor can print the link attenuation*.<br>  
