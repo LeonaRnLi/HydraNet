@@ -1,0 +1,531 @@
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -48
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -52
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -52
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -52
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -52
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -52
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -52
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -52
+SERVER got packet from client: 123456789#
+RSSI: -52
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -51
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -49
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+SERVER got packet from client: 123456789#
+RSSI: -50
+
