@@ -1,0 +1,107 @@
+SERVER got packet from client: 1234567:9#
+RSSI: -60
+SERVER got packet from client: 123456789#
+RSSI: -58
+SERVER got packet from client: ABCDEFGHJKL
+RSSI: -59
+SERVER got packet from client: 123456789#
+RSSI: -60
+SERVER got packet from client: 123456789#
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -62
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: 123456789#
+RSSI: -63
+SERVER got packet from client: ⸮KCDEFGHJKL
+RSSI: -66
+SERVER got packet from client: 3⸮%89#
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -64
+SERVER got packet from client: ⸮KCDEFGHJKL
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -64
+SERVER got packet from client: 123456789#
+RSSI: -59
+SERVER got packet from client: 123456789#
+RSSI: -58
+SERVER got packet from client: ⸮BCDEFGHJKL
+RSSI: -58
+SERVER got packet from client: 1234567:⸮# F⸮lG£⸮⸮⸮⸮#G⸮8q⸮ĉ%K⸮.\⸮p⸮⸮⸮2dA⸮DL⸮M⸮⸮⸮ޙ⸮⸮""
+)⸮y5iUq⸮⸮⸮⸮ş⸮O⸮_\⸮"_⸮,
+v⸮⸮߁⸮⸮z⸮y⸮r^⸮~⸮ѲD⸮!C⸮
+6lرcǏ<y⸮⸮Μ9s⸮̘1bŋ-Z⸮⸮⸮⸮⸮"E⸮⸮5Ɩ⸮>ȩS/n⸮⸮%⸮Q⸮'⸮⸮.⸮⸮;)⸮⸮ݐ⸮⸮x⸮⸮⸮^⸮f⸮v7Q⸮~⸮⸮b#⸮⸮N:u⸮ժU⸮W⸮_⸮|⸮⸮⸮ʔ(P⸮B⸮	'O⸮?⸮⸮
+RSSI: -58
