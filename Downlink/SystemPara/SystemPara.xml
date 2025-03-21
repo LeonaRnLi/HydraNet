@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemPara>
+   <Tpara>
+      <SpreadFactor>12</SpreadFactor>
+      <Bandwidth>125e3</Bandwidth>
+      <Fs>125e3</Fs>
+      <Fc>915e3</Fc>
+      <FFTfactor>1</FFTfactor>
+   </Tpara>
+   <CombInfo>
+      <TimeSymDelay>8.75</TimeSymDelay>
+      <SIR>-0.4</SIR>
+   </CombInfo>
+</SystemPara>
