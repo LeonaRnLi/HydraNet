@@ -43,14 +43,23 @@ Below is the protocol of HydraNet, illustrating how it achieve spatial reuse in 
 
 - **Uplink:** We provide data traces in uplink that reproduce the key functions of HydraNet.
 
-*Open the "Uplink" folder, and run two main files, the detected packets and symbol error number are printed on the command window*.
+*Open the "Uplink" folder, and run exp_sec5_Hydranet_uplink_2x2.m, the detected packets and symbol error number are printed on the command window*.
 - *Download the real-world uplink data (.dat) from the github release: https://github.com/LeonaRnLi/HydraNet/releases/tag/uplink*.
 ---
 - **Downlink:** We provide data traces in downlink from Arduino monitor that reproduce how to process HydraNet downlink data and provide combined power beam packets generation functions.
+- 
 *Open the "Downlink" folder, and run two main files, you can get the combined packets with different weight*.
 
 
 ### **To Run the HydraNet on Your Testbed**
+- **Uplink & Downlink** We provide .grc files and python framework for GNU Radio and .m for the power beamforming named example_classicMUSIC_RSS_2x2.m.
+- **We give 2x2 Downlink deployment example** which is the main target scenario for HydraNet.
+- ***Step:***  
+*1. Open the "Lora_rf95_server" folder, and upload the server .ino on two LoRa SX1276 nodes for receive the downlink packets*.  <br>  
+*2. Open the "Lora_rf95_server" folder, and upload the client .ino on LoRa nodes to simplify the link probing process, in this code, after upload the monitor can print the link attenuation*.<br>  
+*3. After get the 4 link attenuation, use the example_classicMUSIC_RSS_2x2.m to get the GNU Radio Tx power*.<br>  
+*4. Run the exp_sec5_beamforming.m with modified AoA angle parameter to get the combined packets*.<br>  
+*5. Open the downlink/GNU_file folder, use beamforming_2x2.grc and verify the .dat file, the Tx power need to be set as Tx_power_2x2.json (you can enhace the Tx power with margin to make the system more robust)*.<br>  
 
 ## Video Demo
 
