@@ -47,7 +47,7 @@ Below is the protocol of HydraNet, illustrating how it achieve spatial reuse in 
 - *Download the real-world uplink data (.dat) from the github release: https://github.com/LeonaRnLi/HydraNet/releases/tag/uplink*.
 ---
 - **Downlink:** We provide data traces in downlink from Arduino monitor that reproduce how to process HydraNet downlink data and provide combined power beam packets generation functions. And the provided data are used for HydraNet spatial reuse performance evaluation (Fig. 14a one CDF line)
-- *To evaluate real-world deployment PRR, open the **Downlink/Artifact/** folder and run exp_eval_plot_Spatial_Reuse_2_tx_CDF_PRR.m. This script computes the Packet Reception Ratio (PRR) and generates the CDF curve used in our evaluation*.
+- *To evaluate real-world deployment PRR, open the **Downlink/Artifact/** folder and run exp_eval_plot_Spatial_Reuse_2_tx_CDF_PRR.m. This script computes the Packet Reception Ratio (PRR)*. ***In addition, we have provided an updated example plotting script, fig_eval_example_cdf_plot.m, which reproduces the CDF results as shown in Figure 14a of the paper. This script uses the real-world .mat files directly and produces the complete visualization, including formatting and legend layout.***.
 
 ***You may also modify this exp_eval_plot_Spatial_Reuse_2_tx_CDF_PRR.m file to compute the PRR of your own experiments, such as results from the COTS node monitor, for immediate evaluation***.
 
